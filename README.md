@@ -1,270 +1,266 @@
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    HEADER BANNER                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<!-- ULTRA HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=NATTACHA%20ACKAHAT&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=⚡%20Network%20Engineer%20·%20Developer%20·%20AI%20Explorer%20⚡&descAlignY=65&descSize=17&descColor=adbac7&stroke=ffffff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1f35,60:162447,100:1f4068&height=240&section=header&text=Nattacha%20Ackahat&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=45&desc=Network%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Explorer&descAlignY=65&descSize=18&descColor=8b949e" width="100%"/>
 
-<!-- MATRIX RAIN EFFECT VIA SVG -->
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="60px"/>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  ANIMATED TYPING + BADGES                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=🌐+Network+%26+Microservices+Engineer;🤖+AI+%2F+NLP+%2F+Machine+Learning;🎵+Creative+Web+%26+Music+Developer;🗄️+Database+Systems+%26+Backend;🏅+CCNA+Final+Exam+%3A+100+%2F+100+🥇;⚡+Building+systems+that+actually+scale)](https://github.com/bbthecat)
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-nattacha.a%40kkumail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nattacha.a@kkumail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-bbthecat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bbthecat)
+&nbsp;
+[![CCNA](https://img.shields.io/badge/CCNA-100%2F100%20🏅-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=bbthecat&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     WHO AM I                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- SOCIAL BADGES -->
-[![Gmail](https://img.shields.io/badge/-nattacha.a@kkumail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nattacha.a@kkumail.com)
-[![GitHub](https://img.shields.io/badge/-bbthecat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bbthecat)
-[![Cisco CCNA](https://img.shields.io/badge/-CCNA%20100%2F100-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#)
-[![KKU](https://img.shields.io/badge/-Khon%20Kaen%20University-7B2D8B?style=for-the-badge&logo=academia&logoColor=white)](#)
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbthecat&layout=donut&theme=tokyonight&border_radius=10&border_color=1f6feb&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 
-<!-- VIEWS COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=bbthecat&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<!-- ANIMATED TYPING -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=600&color=58A6FF&center=true&vCenter=true&width=800&lines=🔥+Full-Stack+Developer+%7C+KKU;🌐+Network+%26+Microservices+Architect;🤖+AI+%2F+NLP+%2F+Machine+Learning;🎵+Creative+Web+%26+Music+Dev;🏅+CCNA+Final+Exam+%3A+100+%2F+100;⚡+Building+real+systems+that+scale)](https://github.com/bbthecat)
-
-</div>
-
----
-
-<!-- ABOUT + STATS SIDE BY SIDE -->
-<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=bbthecat&show_icons=true&theme=tokyonight&border_radius=12&border_color=7957d5&title_color=58a6ff&icon_color=ff7b72&text_color=c9d1d9&bg_color=0d1117&ring_color=7957d5&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" />
-
-## ⚡ `whoami`
+## `> whoami`
 
 ```typescript
 const bbthecat = {
-  name:        "Nattacha Ackahat",
-  location:    "Khon Kaen, Thailand 🇹🇭",
-  university:  "KKU — Khon Kaen University",
-  roles: [
-    "Network Engineer 🌐",
-    "Full-Stack Developer 💻",
-    "AI / ML Explorer 🤖",
-    "Music & Creative Dev 🎵",
+  name:       "Nattacha Ackahat",
+  university: "Khon Kaen University 🇹🇭",
+  focus: [
+    "🌐  Network Architecture",
+    "🐳  Docker & Microservices",
+    "🤖  AI / NLP / Machine Learning",
+    "🎵  Creative Web Development",
+    "🗄️  Database Systems",
   ],
-  superpower:  "CCNA Final Exam → 100 / 100 🏅",
-  askMeAbout:  ["Docker", "Nginx", "Python", "AI/NLP"],
-  currentlyOn: "Building scalable microservices",
-  funFact:     "I turned Packet Tracer into Docker 🐳",
-};
+  achievement: "CCNA Final Exam → 100/100 🥇",
+  currentlyLearning: "Kubernetes · CI/CD · MLOps",
+  funFact: "I dockerized an entire Packet Tracer lab 😎",
+} as const;
 ```
 
 <br clear="right"/>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                 GITHUB TROPHIES                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 ## 🏆 Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bbthecat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/bbthecat)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bbthecat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/bbthecat)
 
 </div>
 
 ---
 
-## 🚀 Project Showcase
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  PROJECT SHOWCASE                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- NETWORK PROJECT -->
-<details open>
-<summary><b>🌐 Network & Infrastructure</b></summary>
-<br/>
+## 🚀 Projects
 
-<table>
+### 🌐 Network & Infrastructure
+
+<table width="100%">
 <tr>
-<td>
+<td width="55%" valign="top">
 
-### ⚡ [Network-Microservices](https://github.com/bbthecat/Network-Microservices)
+**[⚡ Network-Microservices](https://github.com/bbthecat/Network-Microservices)**
 
-> **Enterprise Docker topology** replacing Cisco Packet Tracer
+Enterprise Docker topology replacing Cisco Packet Tracer.
 
 ```
-     🌍 Internet
-          │
-   ┌──────▼──────┐
-   │  Nginx Edge  │  ← 🔒 Rate Limit · ACL · LB
-   └──────┬──────┘
-══════════╪═════ 🔥 Firewall
-   ┌──────┴──────────────┐
-[api-1] [api-2] ← ⚡ Zero Downtime Failover
-   └──────┬──────────────┘
- [PostgreSQL] [Redis] ← 🔐 Private Zone
- [Loki] [Promtail] [Grafana] ← 📊 Logs
+🌍 Internet (port 80 / 8000)
+         │
+  ┌──────▼──────────┐
+  │  Nginx Gateway  │  🔒 Rate Limit · ACL · LB
+  └──────┬──────────┘  172.20.0.0/24
+═════════╪════════════ 🔥 Firewall
+  ┌──────┴──────────────────┐
+  │ [api-1]     [api-2]     │ ⚡ Zero-Downtime Failover
+  │ [PostgreSQL] [Redis]    │ 🔐 Private — no external port
+  │ [Loki] [Grafana]        │ 📊 Centralized Logging
+  └─────────────────────────┘  172.21.0.0/24
 ```
 
 </td>
-<td>
+<td width="45%" valign="top">
 
-| Test | |
-|------|:-:|
+**Resiliency Results:**
+
+| Test Case | |
+|-----------|:-:|
 | All containers healthy | ✅ |
-| LB: api-1 55% / api-2 45% | ✅ |
-| Zero-downtime failover | ✅ |
-| Rate limiting HTTP 429 | ✅ |
+| LB: 55% api-1 / 45% api-2 | ✅ |
+| Zero-downtime failover (95% uptime) | ✅ |
+| Rate limit → HTTP 429 on burst | ✅ |
 | Redis 83% faster than DB | ✅ |
+| DB port blocked externally | ✅ |
 | Cluster auto-recovery | ✅ |
-| **24 / 24 Tests** | 🟢 |
+| **24 / 24 Tests Passed** | 🟢 |
 
-`Docker` `Nginx` `Node.js` `PostgreSQL` `Redis` `Loki`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-</details>
+---
 
-<!-- AI PROJECT -->
-<details open>
-<summary><b>🤖 AI / Machine Learning</b></summary>
-<br/>
+### 🤖 AI & Machine Learning
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎬 [Movie-Sentiment-Analyzer](https://github.com/bbthecat/Movie-Sentiment-Analyzer)
+**[🎬 Movie-Sentiment-Analyzer](https://github.com/bbthecat/Movie-Sentiment-Analyzer)**  
 `Python` `NLP` `Scikit-learn`
 
-Sentiment classification for movie reviews.  
-Determines **positive / negative** sentiment using NLP.
-
-> 🧠 Text preprocessing → Feature extraction → ML model
+Sentiment classification engine for movie reviews.  
+Text preprocessing → Feature extraction → ML model → **Positive / Negative**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 [Brain-Net-Architecture](https://github.com/bbthecat/Brain-Net-Architecture-Specification-v1.0)
-`Python` `Architecture Design`
+**[🧠 Brain-Net-Architecture-Specification-v1.0](https://github.com/bbthecat/Brain-Net-Architecture-Specification-v1.0)**  
+`Python` `Deep Learning`
 
-Neural network architecture specification.  
+Neural network architecture specification for deep learning systems.  
 ⭐ **Forked by the community**
 
-> 📐 Detailed spec for deep learning system design
-
 </td>
 </tr>
 </table>
-
-</details>
-
-<!-- WEB + CREATIVE -->
-<details open>
-<summary><b>🎨 Web & Creative</b></summary>
-<br/>
-
-<table>
-<tr>
-<td width="33%">
-
-### 🎵 [musicwave](https://github.com/bbthecat/musicwave)
-`Web` `UI/UX` `Animation`
-
-Music-themed web app with  
-**waveform visualizations** and interactive UI.
-
-</td>
-<td width="33%">
-
-### 🤝 [Smart_Team_Builder](https://github.com/bbthecat/Smart_Team_Builder)
-`Python` `Algorithm`
-
-Smart algorithm for building **balanced teams** based on skill compatibility.
-
-</td>
-<td width="33%">
-
-### 📋 [Team-Info-Task](https://github.com/bbthecat/Team-Info-and-Task-assignment)
-`CSS` `HTML`
-
-Team dashboard with task assignments and member management UI.
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<!-- DATABASE -->
-<details open>
-<summary><b>🗄️ Database & Systems</b></summary>
-<br/>
-
-### 💾 [DBMSFinal](https://github.com/bbthecat/DBMSFinal)
-`JavaScript` `Database` `CRUD`
-
-Database Management System final project with full CRUD, relational schema design, and modern JS frontend.
-
-</details>
 
 ---
 
-## 🏅 CCNA Academic Achievement
+### 🎨 Web & Creative
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**[🎵 musicwave](https://github.com/bbthecat/musicwave)**
+
+Music-themed web app with waveform visualizations and interactive audio UI.
+
+</td>
+<td width="33%" valign="top">
+
+**[🤝 Smart_Team_Builder](https://github.com/bbthecat/Smart_Team_Builder)**  
+`Python`
+
+Smart algorithm for building balanced teams based on skills & compatibility scores.
+
+</td>
+<td width="33%" valign="top">
+
+**[📋 Team-Info-Task-assignment](https://github.com/bbthecat/Team-Info-and-Task-assignment)**  
+`CSS` `HTML`
+
+Team management dashboard with task tracking and member profiles.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🗄️ Database & Systems
+
+**[💾 DBMSFinal](https://github.com/bbthecat/DBMSFinal)** — `JavaScript`  
+Database Management System final project. Full CRUD, relational schema design, and modern JS frontend interface.
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                 CCNA SCORECARD                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🎓 CCNA: Introduction to Networks
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║           🎓 CCNA: Introduction to Networks — Scorecard             ║
-╠══════════════════════╦═══════════════╦══════╦════════════════════════╣
-║ Checkpoint Exam      ║ Date          ║Score ║ Grade                  ║
-╠══════════════════════╬═══════════════╬══════╬════════════════════════╣
-║ Network Connectivity ║ 10 Jan 2026   ║94/100║ ⭐⭐⭐⭐               ║
-║ Ethernet Concepts    ║ 16 Jan 2026   ║100/10║ ⭐⭐⭐⭐⭐ PERFECT      ║
-║ Between Networks     ║ 23 Jan 2026   ║100/10║ ⭐⭐⭐⭐⭐ PERFECT      ║
-║ IP Addressing        ║ 20 Feb 2026   ║94/100║ ⭐⭐⭐⭐               ║
-║ App Communications   ║ 20 Feb 2026   ║97/100║ ⭐⭐⭐⭐⭐              ║
-║ Network Security     ║ 20 Feb 2026   ║94/100║ ⭐⭐⭐⭐               ║
-╠══════════════════════╬═══════════════╬══════╬════════════════════════╣
-║ 📊 Module Average    ║               ║579/60║ 🔥 96.5%               ║
-║ 🎯 FINAL EXAM        ║ 27 Mar 2026   ║100/10║ 🥇 100% PERFECT        ║
-╚══════════════════════╩═══════════════╩══════╩════════════════════════╝
-```
+| # | Checkpoint Exam | Date | Score | |
+|:-:|:----------------|:----:|:-----:|:-:|
+| 1 | Basic Network Connectivity & Communications | 10 Jan 2026 | **94/100** | ⭐⭐⭐⭐ |
+| 2 | Ethernet Concepts | 16 Jan 2026 | **100/100** | 🏅 Perfect |
+| 3 | Communicating Between Networks | 23 Jan 2026 | **100/100** | 🏅 Perfect |
+| 4 | IP Addressing | 20 Feb 2026 | **94/100** | ⭐⭐⭐⭐ |
+| 5 | Network Application Communications | 20 Feb 2026 | **97/100** | ⭐⭐⭐⭐+ |
+| 6 | Building & Securing a Small Network | 20 Feb 2026 | **94/100** | ⭐⭐⭐⭐ |
+| ➕ | **Module Average** | — | **579/600** | 🔥 **96.5%** |
+| 🎯 | **CCNA Final Exam** | 27 Mar 2026 | **100/100** | 🥇 **100%** |
 
 </div>
 
 ---
 
-## 🛠️ Arsenal
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   TECH ARSENAL                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**⚡ Languages**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**🐳 Infrastructure & DevOps**
+**Infrastructure & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-**🗄️ Database & Messaging**
+**Database & Cache**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**🤖 AI / Data Science**
+**AI & Data**
 
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**📊 Observability & Tools**
+**Observability & Tools**
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -272,48 +268,34 @@ Database Management System final project with full CRUD, relational schema desig
 
 ---
 
-## 📈 Activity & Stats
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   GITHUB STATS                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbthecat&layout=donut&theme=tokyonight&border_radius=12&border_color=7957d5&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=css" height="220"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bbthecat&show_icons=true&theme=tokyonight&border_radius=10&border_color=1f6feb&title_color=58a6ff&icon_color=ff7b72&text_color=c9d1d9&bg_color=0d1117&ring_color=58a6ff&count_private=true&include_all_commits=true" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bbthecat&theme=tokyonight&border_radius=12&border=7957d5&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&background=0d1117" height="220"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bbthecat&theme=tokyonight&border_radius=10&border=1f6feb&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&background=0d1117" height="175"/>
 
 <br/><br/>
 
-<!-- CONTRIBUTION GRAPH -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bbthecat&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=7957d5&point=ff7b72&area=true&area_color=58a6ff&hide_border=true&radius=8)](https://github.com/bbthecat)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bbthecat&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff7b72&area=true&area_color=1f6feb&hide_border=true&radius=8)](https://github.com/bbthecat)
 
 </div>
 
 ---
 
-<!-- SNAKE CONTRIBUTION ANIMATION -->
-<div align="center">
-
-### 🐍 My Contributions — Eaten by the Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bbthecat/bbthecat/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bbthecat/bbthecat/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bbthecat/bbthecat/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      FOOTER                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 💬 Quote of the Day
+📎 [**All Assignments PDF**](https://drive.google.com/file/d/1j078RIAKxEhTDKiFeY7rLxs90CA9mNj3/view?usp=sharing) &nbsp;·&nbsp; 📦 [**Network Lab**](https://github.com/bbthecat/Network-Microservices) &nbsp;·&nbsp; 📄 [**Lab Report**](https://github.com/bbthecat/Network-Microservices/blob/main/LAB_REPORT.md)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
----
-
-📎 [**All Assignments**](https://drive.google.com/file/d/1j078RIAKxEhTDKiFeY7rLxs90CA9mNj3/view?usp=sharing) &nbsp;·&nbsp; 📦 [**Network Lab Repo**](https://github.com/bbthecat/Network-Microservices) &nbsp;·&nbsp; 📄 [**Lab Report**](https://github.com/bbthecat/Network-Microservices/blob/main/LAB_REPORT.md)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling&desc=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing%20together%20🚀&descAlign=50&descAlignY=65&descColor=adbac7&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4068,50:162447,100:0d1117&height=130&section=footer&desc=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing%20together%20🚀&descAlign=50&descAlignY=65&descColor=8b949e&descSize=15" width="100%"/>
 
 </div>
