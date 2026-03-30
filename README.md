@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1f35,60:162447,100:1f4068&height=240&section=header&text=Nattacha%20Ackahat&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=45&desc=Network%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Explorer&descAlignY=65&descSize=18&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1f35,60:162447,100:1f4068&height=240&section=header&text=Nattacha%20Ackahat&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=45&desc=Computer%20Science%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Explorer&descAlignY=65&descSize=18&descColor=8b949e" width="100%"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=🌐+Network+%26+Microservices+Engineer;🤖+AI+%2F+NLP+%2F+Machine+Learning;🎵+Creative+Web+%26+Music+Developer;🗄️+Database+Systems+%26+Backend;🏅+CCNA+Final+Exam+%3A+100+%2F+100+🥇;⚡+Building+systems+that+actually+scale)](https://github.com/bbthecat)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=💻+Computer+Science+%40+KKU;🌐+Network+%26+Microservices+Engineer;🤖+AI+%2F+NLP+%2F+Machine+Learning;🎵+Creative+Web+%26+Music+Developer;🗄️+Database+Systems+%26+Backend+Dev;🏅+CCNA+Final+Exam+%3A+100+%2F+100+🥇)](https://github.com/bbthecat)
 
 <br/>
 
@@ -41,7 +41,8 @@
 ```typescript
 const bbthecat = {
   name:       "Nattacha Ackahat",
-  university: "Khon Kaen University 🇹🇭",
+  university: "Khon Kaen University — Computer Science 🇹🇭",
+  major:     "Computer Science (CS)",
   focus: [
     "🌐  Network Architecture",
     "🐳  Docker & Microservices",
