@@ -1,94 +1,181 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=180&section=header&text=Nattacha%20Ackahat&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=Network%20Engineer%20%7C%20KKU%20%7C%20CCNA%20Track&descAlignY=60&descColor=8b949e&stroke=58a6ff&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nattacha%20Ackahat&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20%7C%20Network%20%7C%20AI%20%7C%20KKU&descAlignY=62&descSize=18&descColor=adbac7" width="100%"/>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=👋+Hi+there!+I'm+bbthecat;🌐+Network+%26+Microservices+Engineer;🤖+AI+%2F+ML+Enthusiast;🎸+Music+%26+Web+Developer;🎓+CCNA+Final+Exam+100%2F100)](https://github.com/bbthecat)
+
 </div>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Network+%26+Microservices+Engineer;CCNA+Final+Exam+%3A+100%2F100+%F0%9F%8E%93;Docker+%7C+Nginx+%7C+PostgreSQL+%7C+Redis;Khon+Kaen+University+%F0%9F%8E%93)](https://github.com/bbthecat)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/📧-nattacha.a@kkumail.com-0078D4?style=for-the-badge&logoColor=white)](mailto:nattacha.a@kkumail.com)
+[![Email](https://img.shields.io/badge/Gmail-nattacha.a%40kkumail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nattacha.a@kkumail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-bbthecat-181717?style=for-the-badge&logo=github)](https://github.com/bbthecat)
+[![GitHub followers](https://img.shields.io/github/followers/bbthecat?label=Followers&style=flat-square&logo=github&color=181717)](https://github.com/bbthecat?tab=followers)
 &nbsp;
-[![Cisco](https://img.shields.io/badge/CCNA-100%2F100-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/bbthecat/Network-Microservices)
+[![Profile Views](https://komarev.com/ghpvc/?username=bbthecat&style=flat-square&color=58a6ff&label=Profile+Views)](https://github.com/bbthecat)
 
 </div>
 
 ---
 
-## 🏆 CCNA: Introduction to Networks — Academic Results
+## 👨‍💻 About Me
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbthecat&layout=compact&theme=github_dark&border_color=30363d&title_color=58a6ff&text_color=8b949e&langs_count=8" width="320"/>
+
+```yaml
+Name:        Nattacha Ackahat
+University:  Khon Kaen University (KKU) 🇹🇭
+Fields:      Network Engineering
+             Full-Stack Development
+             AI / Machine Learning
+             Database Systems
+Passion:     Building real systems that actually work
+Achievement: CCNA Final Exam → 100/100 🏅
+Currently:   Docker · Microservices · AI/ML
+```
+
+<br clear="right"/>
+
+---
+
+## 🚀 Projects
+
+### 🌐 Network & Infrastructure
+
+<table>
+<tr>
+<td width="50%">
+
+**[Network-Microservices](https://github.com/bbthecat/Network-Microservices)**  
+`Docker` `Nginx` `Node.js` `PostgreSQL` `Redis`
+
+Enterprise-grade network lab replacing Cisco Packet Tracer.  
+Nginx Edge Gateway → Load Balanced API cluster → Secure data tier → Centralized Loki logging.
+
+✅ **24/24 Resiliency Tests Passed**  
+✅ Zero-downtime failover  
+✅ Rate limiting · ACL · Network zones
+
+</td>
+<td width="50%">
+
+```
+Internet (port 8000)
+       │
+ [Nginx Gateway]   ← Rate Limit + ACL
+       │  frontend-dmz
+══════════ FIREWALL ══════════
+       │  backend-secure
+ [api-1] [api-2]  ← Failover
+ [PostgreSQL][Redis]
+ [Loki + Grafana]
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🤖 AI / Machine Learning
+
+<table>
+<tr>
+<td width="50%">
+
+**[Movie-Sentiment-Analyzer](https://github.com/bbthecat/Movie-Sentiment-Analyzer)**  
+`Python` `NLP` `Machine Learning`
+
+Sentiment analysis on movie reviews using NLP techniques.  
+Classifies reviews as positive / negative with ML models.
+
+</td>
+<td width="50%">
+
+**[Brain-Net-Architecture-Specification-v1.0](https://github.com/bbthecat/Brain-Net-Architecture-Specification-v1.0)**  
+`Python` `Architecture`
+
+Neural network architecture specification document.  
+⭐ Forked by the community.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎵 Web & Creative
+
+<table>
+<tr>
+<td width="50%">
+
+**[musicwave](https://github.com/bbthecat/musicwave)**  
+`Web` `Music` `UI/UX`
+
+Music-themed web experience with waveform visualizations.
+
+</td>
+<td width="50%">
+
+**[Team-Info-and-Task-assignment](https://github.com/bbthecat/Team-Info-and-Task-assignment)**  
+`CSS` `HTML`
+
+Team management dashboard with task assignments and member profiles.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🗄️ Database & Systems
+
+<table>
+<tr>
+<td width="50%">
+
+**[DBMSFinal](https://github.com/bbthecat/DBMSFinal)**  
+`JavaScript` `Database`
+
+Database Management System final project.  
+Full CRUD operations with modern JS frontend.
+
+</td>
+<td width="50%">
+
+**[Smart_Team_Builder](https://github.com/bbthecat/Smart_Team_Builder)**  
+`Python`
+
+Smart algorithm for forming balanced teams.  
+Considers member skills and compatibility.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 CCNA: Introduction to Networks — Scores
 
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│              🎓 COURSE SCORECARD                            │
-│─────────────────────────────────────────────────────────────│
-│  Module Group Exams        579 / 600   ██████████  96.5%   │
-│  Final Exam                100 / 100   ██████████  100%    │
-└─────────────────────────────────────────────────────────────┘
-```
 
 | Checkpoint Exam | Date | Score |
-|-----------------|------|:-----:|
-| Basic Network Connectivity & Communications | 10 Jan 2026 | **94/100** ⭐ |
-| Ethernet Concepts | 16 Jan 2026 | **100/100** 🏅 |
-| Communicating Between Networks | 23 Jan 2026 | **100/100** 🏅 |
-| IP Addressing | 20 Feb 2026 | **94/100** ⭐ |
-| Network Application Communications | 20 Feb 2026 | **97/100** ⭐ |
-| Building & Securing a Small Network | 20 Feb 2026 | **94/100** ⭐ |
-| 🎯 **CCNA Introduction to Networks — Final** | 27 Mar 2026 | **100/100** 🥇 |
+|:----------------|:----:|:-----:|
+| Basic Network Connectivity & Communications | Jan 10, 2026 | ⭐ **94/100** |
+| Ethernet Concepts | Jan 16, 2026 | 🏅 **100/100** |
+| Communicating Between Networks | Jan 23, 2026 | 🏅 **100/100** |
+| IP Addressing | Feb 20, 2026 | ⭐ **94/100** |
+| Network Application Communications | Feb 20, 2026 | ⭐ **97/100** |
+| Building & Securing a Small Network | Feb 20, 2026 | ⭐ **94/100** |
+| **Module Average** | — | 🔥 **579/600 (96.5%)** |
+| 🎓 **CCNA Final Exam** | Mar 27, 2026 | 🥇 **100 / 100** |
 
 </div>
-
----
-
-## 🚀 Featured Project
-
-<a href="https://github.com/bbthecat/Network-Microservices">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=bbthecat&repo=Network-Microservices&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>
-
-<br clear="left"/>
-
-> **Lab 7** — Docker-based topology replacing Cisco Packet Tracer  
-> Nginx Edge Gateway → 2× API (Failover) → PostgreSQL + Redis → Loki Logging
-
-```
- Internet ──► [Nginx: port 8000]  ← Rate Limit 10r/s · ACL · Load Balancer
-                      │  172.20.0.0/24 (frontend-dmz)
-    ══════════════════╪══════════════ 🔥 FIREWALL
-                      │  172.21.0.0/24 (backend-secure, internal=true)
-             ┌────────┴─────────┐
-          [api-1]           [api-2]   ← Zero-Downtime Failover
-             └────────┬─────────┘
-               [PostgreSQL] [Redis]   ← Data Tier (ports PRIVATE)
-               [Loki] [Grafana]       ← Centralized Logging (ms timestamps)
-```
-
-<div align="center">
-
-| Test | Result |
-|------|:------:|
-| ✅ All containers healthy | PASS |
-| ✅ Load balancer: api-1 55% / api-2 45% | PASS |
-| ✅ Zero-downtime failover (95% uptime during stop) | PASS |
-| ✅ Rate limit HTTP 429 on burst | PASS |
-| ✅ Redis cache 83% faster than DB (8ms vs 47ms) | PASS |
-| ✅ Cluster recovery after restart | PASS |
-| **Total** | **24/24** 🟢 |
-
-</div>
-
-**Assignments:** 📎 [All Assignments PDF](https://drive.google.com/file/d/1j078RIAKxEhTDKiFeY7rLxs90CA9mNj3/view?usp=sharing) &nbsp;|&nbsp; 📄 [Lab Report](https://github.com/bbthecat/Network-Microservices/blob/main/LAB_REPORT.md)
 
 ---
 
@@ -96,17 +183,28 @@
 
 <div align="center">
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Infrastructure**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+**Database & Cache**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Observability & Tools**  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -116,15 +214,28 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bbthecat&show_icons=true&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&hide_border=false&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bbthecat&show_icons=true&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&count_private=true&include_all_commits=true" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbthecat&layout=compact&theme=github_dark&border_color=30363d&title_color=58a6ff&text_color=8b949e&hide_border=false" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bbthecat&theme=github-dark-blue&border=30363d&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bbthecat&theme=github-dark-blue&border=30363d&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" height="160"/>
+[![bbthecat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bbthecat&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&hide_border=true)](https://github.com/bbthecat)
+
+</div>
+
+---
+
+## 🏅 Achievements & Highlights
+
+<div align="center">
+
+| 🥇 | 🔥 | 🌟 | 🤖 |
+|:--:|:--:|:--:|:--:|
+| CCNA Final 100/100 | 254+ Contributions | Network Lab 24/24 | AI / NLP Projects |
+| Module Avg 96.5% | 7+ Public Repos | Docker Microservices | Sentiment Analysis |
 
 </div>
 
@@ -132,8 +243,10 @@
 
 <div align="center">
 
-*🎓 CCNA Final: **100/100** &nbsp;·&nbsp; 📡 Network Engineering @ KKU &nbsp;·&nbsp; 🏅 Module Average: **96.5%***
+*"Building real systems — not just simulations."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
+📎 [**All Assignments**](https://drive.google.com/file/d/1j078RIAKxEhTDKiFeY7rLxs90CA9mNj3/view?usp=sharing) &nbsp;|&nbsp; 📦 [**Network-Microservices Repo**](https://github.com/bbthecat/Network-Microservices)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
